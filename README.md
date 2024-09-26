@@ -3,7 +3,7 @@ My name is Emanuel
 en future programer👋
 
 <a href="https://www.linkedin.com/in/emanuel-eliano-710ab6197">
-<img src= "https://blog.b2bstack.com.br/wp-content/uploads/2022/11/LinkedIn-simbolo.jpg" alt= "botão">
+<img src= "https://blog.b2bstack.com.br/wp-content/uploads/2022/11/LinkedIn-simbolo.jpg" alt= "botão"  width="75" height="50" >
 <a/>
 <!--
 **eliano20/eliano20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
