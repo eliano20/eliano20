@@ -1,6 +1,5 @@
 ### Hi there world
-My name is Emanuel
-en future programer👋
+My name is Emanuel👋
 
 <a href="https://www.linkedin.com/in/emanuel-eliano-710ab6197">
 <img src= "https://blog.b2bstack.com.br/wp-content/uploads/2022/11/LinkedIn-simbolo.jpg" alt= "botão"  width="75" height="50" >
